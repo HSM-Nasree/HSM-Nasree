@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HSM-Nasree
+- 👋 Hi, I’m Nasree Hayeesama-ae
 - 👀 I’m interested in deelp learning and computer vision
 - 🌱 I’m a mechatronics engineering student
 - 📫 How to reach me : nasree.hsm@gmail.com
