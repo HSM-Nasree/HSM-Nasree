@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nasree Hayeesama-ae
-- 👀 I’m interested in deep learning and computer vision
+- 👀 I’m a deep learning enthuasiast
 - 🌱 I’m a mechatronics engineering student
 - 📫 How to reach me : nasree.hsm@gmail.com
 
